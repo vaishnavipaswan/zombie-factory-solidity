@@ -36,8 +36,6 @@ To use this contract, you need **Remix IDE** or a Solidity-compatible environmen
 3. Deploy (if you have a script set up):
     ```sh
     npx hardhat run scripts/deploy.js --network localhost
-## 📜 License
-This project follows the MIT License. Feel free to modify and improve!
 
 ## 🙌 Credits
 Based on the CryptoZombies Solidity course by Loom Network.
